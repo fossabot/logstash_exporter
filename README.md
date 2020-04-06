@@ -1,4 +1,5 @@
 # Logstash exporter [![Build Status](https://travis-ci.org/sequra/logstash_exporter.svg)]
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsritoleti%2Flogstash_exporter.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsritoleti%2Flogstash_exporter?ref=badge_shield)
 Prometheus exporter for the metrics available in Logstash since version 5.0.
 
 Continuous integration: [travis](https://travis-ci.org/sequra/logstash_exporter/)
@@ -85,3 +86,7 @@ Flags:
 
 ## Integration tests
 In order to execute manual integration tests (to know if certain logstash version is compatible with logstash-exporter), you can follow instructions present on file [integration-tests/README.md](integration-tests/README.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsritoleti%2Flogstash_exporter.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsritoleti%2Flogstash_exporter?ref=badge_large)
